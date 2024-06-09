@@ -4,7 +4,7 @@ import zipfile
 import json
 
 # Set up OpenAI API key
-openai.api_key = 'AIzaSyBeKGOVp4wg5ajmmfX6KR6bLGZE4DtZFlo'
+openai.api_key = ''
 
 def get_user_input():
     user_input = input("What application do you want to build/generate? ")
